@@ -9672,3 +9672,16 @@ Script Stack (1 frames) :
 [2025.04.29-09.32.00:792][741]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{db45bd89-7ae1-4cae-b174-9204b5111ed0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=107, DurationMS=57.15
 [2025.04.29-09.32.00:792][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=107
 [2025.04.29-09.32.00:795][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=107
+[2025.04.29-09.32.13:337][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.29-09.32.13:337][939]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2025.04.29-09.32.13:337][939]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.04.29-09.32.13:338][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.29-09.32.13:381][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.29-09.32.13:390][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.29-09.32.13:415][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.29-09.32.13:416][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 107
+[2025.04.29-09.32.13:416][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
+[2025.04.29-09.32.13:418][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=107
+[2025.04.29-09.32.13:424][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.29-09.32.13:428][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.04.29-09.32.13:533][940]LogPlayLevel: Display: Destroying online subsystem :Context_157
