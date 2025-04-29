@@ -2883,3 +2883,211 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.29-01.51.00:344][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 10.2 sec)
 [2025.04.29-01.51.00:349][175]AssetCheck: New page: Asset Save: Level1
 [2025.04.29-01.51.00:349][175]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Level1.Level1
+[2025.04.29-01.52.35:046][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.29-01.52.35:046][563]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.29-01.52.35:046][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.29-01.52.36:894][612]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.52.36:981][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.04.29-01.52.38:232][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.52.38:440][642]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-01.52.38:442][642]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacter2B58C012410D051F24D4FCAD2E346B61.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-01.52.38:453][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 10.4 sec)
+[2025.04.29-01.52.38:455][642]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-01.52.38:455][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-01.52.47:479][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.04.29-01.52.50:994][914]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.29-01.52.51:236][914]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.29-01.52.51:236][914]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.29-01.52.51:236][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.29-01.52.51:316][914]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/HP_GameObjects/Spells/BP_Alohomora.BP_Alohomora
+	Asset Type: Blueprint
+[2025.04.29-01.52.51:742][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2025.04.29-01.52.51:853][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.04.29-01.52.51:877][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.04.29-01.52.51:903][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.29-01.52.58:754][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.04.29-01.53.00:194][125]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.29-01.53.00:301][125]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/HP_GameObjects/Spells/BP_Rictusempra.BP_Rictusempra
+	Asset Type: Blueprint
+[2025.04.29-01.53.00:665][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.29-01.53.00:685][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.04.29-01.53.00:703][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.29-01.53.19:819][647]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-01.53.19:820][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.29-01.53.19:820][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.29-01.53.35:045][  1]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.53.35:136][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.29-01.53.36:384][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.53.36:595][ 31]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-01.53.36:596][ 31]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacter6EC9165243E768D7CD022EA14DB279FA.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-01.53.36:609][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 10.6 sec)
+[2025.04.29-01.53.36:612][ 31]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-01.53.36:612][ 31]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-01.54.15:222][ 13]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.54.15:316][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.04.29-01.54.16:473][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.54.16:641][ 37]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-01.54.16:643][ 37]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterB76119214F5AB28480F19695CE816E16.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-01.54.16:654][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 10.8 sec)
+[2025.04.29-01.54.16:657][ 37]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-01.54.16:657][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-01.55.09:181][368]LogContentBrowser: Attempting asset rename: BP_Alohomora_Door_1 -> BP_Alohomora_Door
+[2025.04.29-01.55.09:708][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.BP_Alohomora_Door_C' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:708][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.BP_Alohomora_Door:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:708][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.BP_Alohomora_Door:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:708][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.BP_Alohomora_Door:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:708][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.SKEL_BP_Alohomora_Door_C:UserConstructionScript' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:708][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.SKEL_BP_Alohomora_Door_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:709][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.SKEL_BP_Alohomora_Door_C' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:709][368]LogMetaData: Removing '/Game/HP_GameObjects/Doors/BP_Alohomora_Door.SKEL_BP_Alohomora_Door_C:ReceiveBeginPlay' ref from Metadata '/Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.PackageMetaData'
+[2025.04.29-01.55.09:813][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.55.09:866][368]LogSavePackage: Moving output files for package: /Game/HP_GameObjects/Doors/BP_Alohomora_Door
+[2025.04.29-01.55.09:866][368]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_Alohomora_Door2E53C4F246107387F7055E80AA7EAE5B.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Doors/BP_Alohomora_Door.uasset'
+[2025.04.29-01.55.09:879][368]LogSavePackage: Moving output files for package: /Game/HP_GameObjects/Doors/BP_Alohomora_Door_1
+[2025.04.29-01.55.09:881][368]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_Alohomora_Door_1C39810D148B8B2477F0CD3B2C12547C2.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Doors/BP_Alohomora_Door_1.uasset'
+[2025.04.29-01.55.09:899][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 10.9 sec)
+[2025.04.29-01.55.09:918][368]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.29-01.55.09:918][368]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/HP_GameObjects/Doors/BP_Alohomora_Door.BP_Alohomora_Door
+[2025.04.29-01.55.09:918][368]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.BP_Alohomora_Door_1
+[2025.04.29-01.55.09:918][368]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.BP_Alohomora_Door_1_C
+[2025.04.29-01.55.09:918][368]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/HP_GameObjects/Doors/BP_Alohomora_Door_1.Default__BP_Alohomora_Door_1_C
+[2025.04.29-01.55.09:919][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.29-01.55.36:766][ 54]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.55.36:785][ 54]LogBlueprint: Error: [AssetLog] Z:\Tareas de Mariel\Programacion\GitHub_Projects\Unreal_Proyects\Wizardria\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Alohomora_Door  to imply a specific type.
+[2025.04.29-01.55.36:786][ 54]LogBlueprint: Error: [AssetLog] Z:\Tareas de Mariel\Programacion\GitHub_Projects\Unreal_Proyects\Wizardria\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.04.29-01.55.36:858][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.04.29-01.55.42:628][200]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.55.42:715][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.04.29-01.55.45:063][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.55.45:253][260]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-01.55.45:255][260]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacter02D017F74EF3EA25A227A8BD0C0D728E.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-01.55.45:266][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 11.1 sec)
+[2025.04.29-01.55.45:269][260]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-01.55.45:269][260]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-01.55.58:598][631]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.55.58:690][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.04.29-01.56.00:116][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.56.00:316][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-01.56.00:317][666]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterCD8610C842D471E12FFEBE8AA4F9341A.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-01.56.00:328][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 11.3 sec)
+[2025.04.29-01.56.00:332][666]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-01.56.00:332][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-01.56.20:644][298]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.29-01.56.20:656][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.29-01.56.20:656][298]PIE: New page: PIE session: Level1 (28 abr. 2025 19:56:20)
+[2025.04.29-01.56.20:656][298]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2025.04.29-01.56.20:660][298]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.04.29-01.56.20:694][299]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2025.04.29-01.56.20:703][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008977s)
+[2025.04.29-01.56.20:703][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.009039s)
+[2025.04.29-01.56.20:734][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.04.29-01.56.20:741][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.29-01.56.20:741][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.29-01.56.20:741][299]LogAIModule: Creating AISystem for world Level1
+[2025.04.29-01.56.20:742][299]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2025.04.29-01.56.20:742][299]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.29-01.56.20:742][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.29-01.56.20:742][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.29-01.56.20:742][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.29-01.56.20:743][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.29-01.56.20:743][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.29-01.56.20:745][299]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.29-01.56.20:784][299]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.04.29-01.56.20:785][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.29-01.56.20:785][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.29-01.56.20:785][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.29-01.56.20:786][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.04.29-01.56.20:787][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.04.29-01.56.20:789][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.04.29-01.56.20:789][299]LogInit: FAudioDevice initialized with ID 20.
+[2025.04.29-01.56.20:789][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.04.29-01.56.20:789][299]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2025.04.29-01.56.20:789][299]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.29-01.56.20:794][299]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.29-01.56.20:799][299]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.04.28-22.56.20
+[2025.04.29-01.56.20:799][299]LogWorld: Bringing up level for play took: 0.004558
+[2025.04.29-01.56.20:805][299]PIE: Server logged in
+[2025.04.29-01.56.20:806][299]PIE: Play in editor total start time 0,15 seconds.
+[2025.04.29-01.56.34:597][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.29-01.56.34:598][703]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2025.04.29-01.56.34:598][703]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.04.29-01.56.34:599][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.29-01.56.34:632][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.29-01.56.34:640][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.29-01.56.34:664][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.29-01.56.34:665][703]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.29-01.56.34:665][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.29-01.56.34:668][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.29-01.56.34:675][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.29-01.56.34:680][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.04.29-01.56.34:752][704]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.04.29-01.58.55:179][414]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-01.58.55:269][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.04.29-01.58.56:470][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-01.58.56:671][440]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-01.58.56:672][440]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterAE204232437E6E1C7A2F9A91B9E86955.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-01.58.56:684][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 11.5 sec)
+[2025.04.29-01.58.56:687][440]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-01.58.56:687][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-02.00.37:555][902]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-02.00.37:662][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.04.29-02.00.38:803][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-02.00.39:025][926]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-02.00.39:026][926]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterD51FB8D74FDF1EDD86DB73B55E4667CE.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-02.00.39:037][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 11.8 sec)
+[2025.04.29-02.00.39:040][926]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-02.00.39:040][926]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-02.01.17:537][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.04.29-02.01.17:869][932]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Level1_Auto0
+[2025.04.29-02.01.17:870][932]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/Level1_Auto0052A4064468A66BA5142D09C95A2E3CC.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto0.umap'
+[2025.04.29-02.01.17:872][932]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto0.umap is in the /Temp path, will not scan.
+[2025.04.29-02.01.17:872][932]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Level1' took 0.355
+[2025.04.29-02.01.17:872][932]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.355
+[2025.04.29-02.05.04:351][983]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-02.05.04:445][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.04.29-02.05.05:590][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-02.05.05:802][  6]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-02.05.05:803][  6]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacter5E451C294E6A101114139D9A506896C9.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-02.05.05:815][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 12.0 sec)
+[2025.04.29-02.05.05:818][  6]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-02.05.05:818][  6]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-02.11.18:174][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.04.29-02.11.18:177][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Level1' took 0.029
+[2025.04.29-02.11.18:178][864]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.29-02.11.18:258][864]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.04.29-02.11.18:258][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.04.29-02.11.18:286][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2025.04.29-02.11.18:288][864]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacter_Auto161CDD6EA45F7790C0F7F01996B2BE17D.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.04.29-02.11.18:289][864]LogFileHelpers: Auto-saving content packages took 0.112
+[2025.04.29-02.13.47:788][375]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-02.13.49:652][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.04.29-02.13.51:066][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-02.13.51:265][406]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-02.13.51:266][406]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterA234CC7C4BFBC2783204ADA77CCBEC67.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-02.13.51:279][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 12.2 sec)
+[2025.04.29-02.13.51:280][406]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-02.13.51:281][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-02.15.02:430][247]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-02.15.02:529][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.04.29-02.15.03:500][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-02.15.03:703][267]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-02.15.03:704][267]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterD49261B2404BF044F4B8B8AA4BA12670.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-02.15.03:718][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 12.4 sec)
+[2025.04.29-02.15.03:721][267]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-02.15.03:721][267]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.04.29-02.23.01:334][414]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.04.29-02.23.01:429][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.04.29-02.23.02:255][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.29-02.23.02:431][429]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.29-02.23.02:432][429]LogSavePackage: Moving '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Saved/BP_ThirdPersonCharacterADA8AAD34C57F2C223A9D3A474890AA6.tmp' to '../../../../Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.29-02.23.02:446][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 12.6 sec)
+[2025.04.29-02.23.02:450][429]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.04.29-02.23.02:450][429]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
