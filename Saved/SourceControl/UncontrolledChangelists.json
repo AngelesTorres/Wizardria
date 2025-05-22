@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lucas/Documents/GitHub/Wizardria/Content/StarterContent/Maps/Level1.umap",
+				"C:/Users/Lucas/Documents/GitHub/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Lucas/Documents/GitHub/Wizardria/Content/StarterContent/Blueprints/ui.uasset",
+				"C:/Users/Lucas/Documents/GitHub/Wizardria/Content/StarterContent/Blueprints/bullet.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Wizardria/Content/StarterContent/Maps/Level1.umap",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/StarterContent/Maps/Level1.umap",
@@ -39,7 +43,6 @@
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Spells/BP_Alohomora.uasset",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Tortle.uasset",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Needles_1.uasset",
-				"C:/Users/Lucas/Documents/GitHub/Wizardria/Content/StarterContent/Maps/Level1.umap",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Alohomora_Door_1.uasset",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/Scenario_assets/Holed_Floor_800x800.uasset",
 				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/Scenario_assets/lambert1.uasset",
