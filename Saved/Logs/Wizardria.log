@@ -4647,3 +4647,106 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.06.29-03.56.11:310][293]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.06.29-03.56.11:311][293]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.06.29-03.56.11:311][293]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.29-03.56.17:012][293]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:014][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:016][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:018][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:020][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:022][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:024][293]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:026][293]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:029][293]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:031][293]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:033][293]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:035][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:035][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:035][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:035][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:035][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:035][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:036][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:036][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.06.29-03.56.17:037][293]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:053][293]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:056][293]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.17:058][293]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.06.29-03.56.20:045][293]LogExit: Editor shut down
+[2025.06.29-03.56.20:088][293]LogExit: Transaction tracking system shut down
+[2025.06.29-03.56.21:329][293]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.29-03.56.35:725][293]LogExit: Object subsystem successfully closed.
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: ================================================
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Total job queries 474, among them cache hits 331 (69.83%)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 80 distinct outputs (55.94%)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: RAM used: 3,20 MiB of 716,80 MiB budget. Usage: 0.45%
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Shaders Compiled: 88
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Jobs assigned 88, completed 88 (100%)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Average time worker was idle: 470.55 s
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.42 s
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 3.73 s
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Job life time (pending + execution): average 1.21 s, max 3.78
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Shader code size: average 39,176 KiB, min 29,613 KiB, max 62,449 KiB
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.73 s
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Average processing rate: 2.96 jobs/sec
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Total thread time: 47,644 s
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Total thread preprocess time: 5,686 s
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Percentage time preprocessing: 11.93%
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.67 sec, max 1.03 sec, min 0.56 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.67 sec, max 0.90 sec, min 0.46 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   10 times, average 0.63 sec, max 0.72 sec, min 0.57 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.57 sec, max 0.68 sec, min 0.51 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.56 sec, max 0.64 sec, min 0.52 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.63% of total time (compiled   16 times, average 0.67 sec, max 1.03 sec, min 0.56 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.54% of total time (compiled   16 times, average 0.67 sec, max 0.90 sec, min 0.46 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.22% of total time (compiled   10 times, average 0.63 sec, max 0.72 sec, min 0.57 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.85% of total time (compiled   10 times, average 0.28 sec, max 0.33 sec, min 0.25 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.61% of total time (compiled    3 times, average 0.57 sec, max 0.68 sec, min 0.51 sec)
+[2025.06.29-03.56.35:739][293]LogShaderCompilers: Display: ================================================
+[2025.06.29-03.56.35:839][293]LogShaderCompilers: Display: Shaders left to compile 0
